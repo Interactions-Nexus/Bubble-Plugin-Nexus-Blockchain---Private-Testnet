@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "data (things)",
+        "2": "internationalization",
+        "3": "payment",
+        "4": "ecommerce"
+    },
+    "demo_page": "https://nexus-api-test.bubbleapps.io",
+    "description": "This plugin by Nexus will enable the creation of a blockchain-based application, without the coding experience required or significant costs typically associated with Blockchain development.\n\nThe plugin exposes most of the used methods of the Nexus API for the 5.1 update, allowing rapid development of your application.  For more complex or feature-rich integrations, the source code of this plugin can be used as a reference implementation to add additional API calls using the bubble API connector plugin.  \n\nThe full Nexus documentation is available at https://wiki.nexus.io.  \n\nThe supporting document for this plugin can be found here: https://nexus.io/files/bubbleplugin.pdf\n\nA brief tutorial on how to use the Nexus plugin can be found here: https://nexus.io/ResourceHub/bubble\n\nFor more information on the Nexus blockchain please visit https://nexus.io\n\nNOTE: THIS PLUGIN USES A BACKEND NODE ON A PRIVATE TEST-NET TO PREVENT COST TO THE USER. THIS PLUGIN IS INTENDED FOR TESTING ONLY.\n\n Once you have decided to move forward with your Nexus dapp, the next step would be to test it on the test-net. We maintain a full fledged test-net and users can join that by setting up a test-net node \n\nPlease join https://t.me/NexusDevelopers for more information.\n\n\nTest-net node setup documentation: https://wiki.nexus.io/en/testnet/run-a-testnet-node.\n\nFor porting the dapp to use the mainnet, you will require to set up mainnet nodes. If you have any queries you can reach us at  https://t.me/NexusDevelopers and we will provide free technical consultation.  \n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1594330958619x293784029468907140/789.png",
+    "license": "open_source",
+    "link": "",
+    "name": "Nexus Blockchain - Private Testnet",
+    "plugin_instructions": "Supporting Document: \n\nhttps://nexus.io/files/bubbleplugin.pdf"
+}
